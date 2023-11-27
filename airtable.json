@@ -1,1 +1,24 @@
-{"records":[{"id":"recBWruqpCkuvArpH","createdTime":"2023-11-24T17:41:51.000Z","fields":{"Data":"2023-11-24","Author":"Eleanor Roosevelt","Quote":"The Future Belongs To Those Who Believe In The Beauty Of Their Dreams","Fundo":"1"}},{"id":"recTqmUc9rqLkNIeF","createdTime":"2023-11-24T17:41:51.000Z","fields":{"Data":"2023-11-25","Author":"Ahmed Deedat","Quote":"Language Is The Key To The Heart Of People","Fundo":"2"}},{"id":"recTdIxlicjQaI4Ko","createdTime":"2023-11-24T17:41:51.000Z","fields":{"Data":"2023-11-26","Author":"Anne Lamott","Quote":"Almost Everything Will Work Again If You Unplug It For A Few Minutes, Including You","Fundo":"3"}},{"id":"rec8uuF7IipxSBhi0","createdTime":"2023-11-25T16:12:01.000Z","fields":{"Data":"2023-11-27","Author":"Eleanor Roosevelty","Quote":"If Life Were Predictable It Would Cease To Be Life And Be Without Flavor.","Fundo":"4"}}]}
+{
+  "records": [
+    {
+      "id": "recBWruqpCkuvArpH",
+      "createdTime": "2023-11-24T17:41:51.000Z",
+      "fields": {
+        "Data": "2023-11-27",
+        "Fundo": "1",
+        "Author": "Emissions Gap Report",
+        "Quote": "\"A humanidade tem quebrado os recordes errados quando o assunto é alterações climáticas\""
+      }
+    },
+    {
+      "id": "recTqmUc9rqLkNIeF",
+      "createdTime": "2023-11-24T17:41:51.000Z",
+      "fields": {
+        "Data": "2023-11-28",
+        "Fundo": "2",
+        "Author": "António Guterres",
+        "Quote": "“Está na hora de acabarmos com este vício dos combustíveis fósseis que estão a acelerar as alterações climáticas”"
+      }
+    }
+  ]
+}
