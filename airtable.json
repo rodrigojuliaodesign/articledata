@@ -37,14 +37,17 @@
         "Data": "2023-11-30",
         "Fundo": "4",
         "Author": "IPCC",
-        "Quote": "\"Manter o aquecimento em 1,5ºC exige reduções rápidas, profundas e sustentadas em todos os sectores\""
+        "Quote": "Manter o aquecimento em 1,5ºC exige reduções rápidas, profundas e sustentadas em todos os sectores"
       }
     },
     {
       "id": "recR32MwWDLjZR0vu",
       "createdTime": "2023-11-29T15:14:46.000Z",
       "fields": {
-        "Fundo": "1"
+        "Fundo": "5",
+        "Quote": "Peço-vos que trabalhem juntos. Sejam flexíveis. Encontrem os pontos de convergência",
+        "Author": "Sultan Ahmed Al-Jaber",
+        "Data": "2023-12-01"
       }
     },
     {
@@ -54,7 +57,7 @@
         "Data": "2023-12-02",
         "Fundo": "6",
         "Author": "Petteri Taalas",
-        "Quote": "\"É uma cacofonia ensurdecedora de recordes quebrados\""
+        "Quote": "É uma cacofonia ensurdecedora de recordes quebrados"
       }
     },
     {
@@ -64,7 +67,7 @@
         "Data": "2023-12-03",
         "Fundo": "7",
         "Author": "Joana Portugal Pereira",
-        "Quote": "\"Caminhamos na direcção certa, mas demasiado devagar para lidar de forma efectiva com a crise climática actual\""
+        "Quote": "Caminhamos na direcção certa, mas demasiado devagar para lidar de forma efectiva com a crise climática actual"
       }
     },
     {
@@ -74,7 +77,7 @@
         "Data": "2023-12-04",
         "Fundo": "8",
         "Author": "Simon Stiell",
-        "Quote": "\"A COP28 não pode ser apenas uma oportunidade de aparecer na foto. Os líderes devem cumprir – a mensagem é clara\""
+        "Quote": "A COP28 não pode ser apenas uma oportunidade de aparecer na foto. Os líderes devem cumprir – a mensagem é clara"
       }
     }
   ]
