@@ -39,6 +39,43 @@
         "Author": "IPCC",
         "Quote": "\"Manter o aquecimento em 1,5ºC exige reduções rápidas, profundas e sustentadas em todos os sectores\""
       }
+    },
+    {
+      "id": "recR32MwWDLjZR0vu",
+      "createdTime": "2023-11-29T15:14:46.000Z",
+      "fields": {
+        "Fundo": "1"
+      }
+    },
+    {
+      "id": "recm4SHNfTLv0pwq7",
+      "createdTime": "2023-11-29T15:14:50.000Z",
+      "fields": {
+        "Data": "2023-12-02",
+        "Fundo": "6",
+        "Author": "Petteri Taalas",
+        "Quote": "\"É uma cacofonia ensurdecedora de recordes quebrados\""
+      }
+    },
+    {
+      "id": "rec4UOdJMAUEZQtGV",
+      "createdTime": "2023-11-29T17:16:38.000Z",
+      "fields": {
+        "Data": "2023-12-03",
+        "Fundo": "7",
+        "Author": "Joana Portugal Pereira",
+        "Quote": "\"Caminhamos na direcção certa, mas demasiado devagar para lidar de forma efectiva com a crise climática actual\""
+      }
+    },
+    {
+      "id": "rec8KbsogpkuirHQE",
+      "createdTime": "2023-11-29T17:38:43.000Z",
+      "fields": {
+        "Data": "2023-12-04",
+        "Fundo": "8",
+        "Author": "Simon Stiell",
+        "Quote": "\"A COP28 não pode ser apenas uma oportunidade de aparecer na foto. Os líderes devem cumprir – a mensagem é clara\""
+      }
     }
   ]
 }
