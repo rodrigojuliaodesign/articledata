@@ -99,6 +99,36 @@
         "Author": "Mia Mottley",
         "Quote": "As perdas e danos são depois da destruição. O que queremos é evitar a destruição"
       }
+    },
+    {
+      "id": "recqLRdDuQT8DO514",
+      "createdTime": "2023-12-06T11:57:40.000Z",
+      "fields": {
+        "Data": "2023-12-07",
+        "Fundo": "2",
+        "Author": "Samantha Burgess",
+        "Quote": "2023 tem agora seis meses recordes e duas estações recordes. É o ano mais quente alguma vez registado na história "
+      }
+    },
+    {
+      "id": "recrGdaw7L6Vaejf0",
+      "createdTime": "2023-12-06T11:56:30.000Z",
+      "fields": {
+        "Data": "2023-12-08",
+        "Fundo": "3",
+        "Author": "Pierre Friedlingstein",
+        "Quote": "A acção para reduzir as emissões de carbono por causa do uso de combustíveis fósseis continua a ser dolorosamente lenta"
+      }
+    },
+    {
+      "id": "reccix6ugkokgXCFz",
+      "createdTime": "2023-12-06T11:55:30.000Z",
+      "fields": {
+        "Data": "2023-12-09",
+        "Fundo": "4",
+        "Author": "Tiago Brandão Rodrigues",
+        "Quote": "É preciso as pessoas sentirem que são envolvidas na solução"
+      }
     }
   ]
 }
