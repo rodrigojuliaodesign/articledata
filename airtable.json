@@ -149,6 +149,26 @@
         "Author": "Wopke Hoekstra",
         "Quote": "Não podemos escapar do problema só com captura e armazenamento de carbono"
       }
+    },
+    {
+      "id": "recciNkQzTobVcTrM",
+      "createdTime": "2023-12-12T13:34:14.000Z",
+      "fields": {
+        "Data": "2023-12-12",
+        "Fundo": "8",
+        "Author": "Al Gore",
+        "Quote": "A COP28 está à beira do fracasso total"
+      }
+    },
+    {
+      "id": "recdC2u2CxPONbzBE",
+      "createdTime": "2023-12-12T12:05:01.000Z",
+      "fields": {
+        "Data": "2023-12-13",
+        "Fundo": "7",
+        "Author": "Teresa Ribera Rodríguez",
+        "Quote": "Seria bom termos mais clareza se queremos fazer desta COP o que mundo precisa e o que é suposto ser"
+      }
     }
   ]
 }
